@@ -1,0 +1,5 @@
+{
+  "name": "BET TZ",
+  "description": "A simulated sports betting application with live odds, bet slips, and bankroll management.",
+  "requestFramePermissions": []
+}
